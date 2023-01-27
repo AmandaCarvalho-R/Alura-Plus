@@ -2,7 +2,7 @@
 
 Criação de uma landing page mostrando o combo+ da alura, informando valores para aquisição, de quais dispositivos ele pode ser acessado,informando que os cursos podem ser baixados.
 Este projeto é para que eu possa praticar um pouco mais meu HTML e CSS.
-Com este projeto pude abrir um pouco minha mente sobre a utilização dos grid e flexbox.
+Com este projeto pude abrir um pouco minha mente sobre a utilização dos grid e flexbox, conheci a ferramenta FIGMA, aprendi sobre a utilização das variávei de cores no CSS.
 
 Site para acesso direto ao projeto: newaluraplus.netlify.app
 
